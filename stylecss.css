@@ -1,0 +1,105 @@
+.container{
+    background-color: aqua;
+}
+.heading1{
+    border: 10px solid skyblue;
+}
+.table1{
+   position: relative;
+   left: 50%;
+   right: 50%;
+   top: 20%;
+   color: blue;
+}
+.form2{
+    color: blue;
+}
+
+
+.form3{
+    position: absolute;
+    left: 60%;
+    right: 20%;
+    top: 40%;
+    color: blue;
+}
+.form4{
+    position: absolute;
+    left: 60%;
+    right: 20%;
+    top: 44%;
+    color: blue;
+}
+.form5{
+    position: absolute;
+    left: 60%;
+    right: 20%;
+    top: 48%;
+    color: blue;
+
+}
+.form6{
+    position: absolute;
+    left: 65%;
+    right: 20%;
+    top: 48%;
+    color: blue;
+}
+.form7{
+    position: absolute;
+    left: 60%;
+    right: 25%;
+    top: 52%;
+    color: blue;
+}
+.form8{
+    position: absolute;
+    left: 65%;
+    right: 15%;
+    top: 52%;
+    color: blue;
+}
+
+
+.form10{
+    position: absolute;
+    left: 65%;
+    right: 15%;
+    top: 65%;
+    color: blue;
+}
+.form13{
+    position: absolute;
+    left: 60%;
+    right: 20%;
+    top: 62%; 
+    color: blue;
+}
+.form11{
+    color: blue;
+}
+h1,h2,h3,h4,h5{
+    color: red;
+    text-align: bold;
+}
+.color{
+    color: blue;
+}
+p{
+    color: blue;
+}
+.button{
+    background-color: blue;
+  /* margin: px 600px; */
+  position: relative;
+  top: 80%;
+  right: 50%;
+  left: 40%;
+  color: white;
+}
+.button2{
+    background-color: blue;
+    margin: 0px 665px ;
+    /* padding-left: 50px; */
+    color: white;
+}
